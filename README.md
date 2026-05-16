@@ -1,13 +1,15 @@
 # Codeforces Stat Visualization
+📌 **이 저장소는 [cf-stats](https://github.com/sudiptob2/cf-stats)레포 기반의 커스텀된 버전입니다.**
 
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+---
+<a href="https://github.com/cubeweek/cf-stats">
+<img src="https://raw.githubusercontent.com/cubeweek/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/cubeweek/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
 <a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
+<img src="https://raw.githubusercontent.com/cubeweek/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/cubeweek/cf-stats/main/output/rating.svg" />
 </a>
 
 # Installation
